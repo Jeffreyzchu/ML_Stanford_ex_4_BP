@@ -1,6 +1,7 @@
 # MachineLearning_Stanford_Andrew_Ng
 coursera上吴恩达老师机器学习课程的练习，MATLAB语言，本课程作为ML入门课程值得推荐。
 
+所有作业模块均成功完成；
 ex1-线性回归;
 ex2-逻辑归回;
 ex3-多分类和神经网络；
